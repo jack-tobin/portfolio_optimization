@@ -1,7 +1,7 @@
 # portfolio_optimization
 Portfolio Optimization in Python
 
-In this project I designed a simple portfolio optimization model. The user provides the model with a list of publicly traded securities, such as stocks or ETFs. The model then constructs a Markowitz-efficient portfolio of the constituent assets by identifying the portfolio weights that produces the highest risk-adjusted expected return as defined by the Sharpe Ratio.
+In this project I designed a simple portfolio optimization model. The user provides the model with a list of publicly traded securities, such as stocks or ETFs. The model then constructs a Markowitz-efficient portfolio of the constituent assets by identifying the portfolio weights that produce the highest risk-adjusted expected return as defined by the Sharpe Ratio.
 
 More on Markowitz Portfolios:
 https://en.wikipedia.org/wiki/Markowitz_model
