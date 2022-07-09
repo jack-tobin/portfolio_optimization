@@ -11,6 +11,6 @@ https://en.wikipedia.org/wiki/Sharpe_ratio
 
 This project contains two modules, "optimization.py" and "portfolios.py." The "optimization" module contains the class architecture for the optimizer, and the "portfolios" module makes use of the Optimizer class by comparing the "optimal" portfolio with 10,000 randomly-weighted simulated portfolios. The results are that the "optimal" portfolio produces the highest risk-adjusted return of any combination of the constituent assets.
 
-![Alt text](/optimal_port.png?raw=true "Optimal Portfolio vs. 10,000 Randomly-Weighted Simulated Portfolios")
+![Alt text](/optimal_port.png?raw=true "Optimal Portfolio vs. 20,000 Randomly-Weighted Simulated Portfolios")
 
 Next in line for new features: allow the user to specify the objective function, i.e. either maximize Sharpe, minimize portfolio variance, or maximize some portfolio "utility function".
